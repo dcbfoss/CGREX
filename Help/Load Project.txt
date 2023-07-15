@@ -1,0 +1,5 @@
+                                      Load Project
+
+
+           This menu item can reload a saved SAT project. A SAT file contains the sequence, plot and all the settings made by user.
+

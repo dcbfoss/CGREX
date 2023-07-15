@@ -1,0 +1,5 @@
+                                            Split
+
+          The plot can be spitted into different levels irrespective of the number of corners in the plot. The user has to select the level from a pop up window
+	The tool supports a unique feature of  automatically assigning different colors to the different grids thereby helping the user to clearly demarcate the zones corresponding to each corner.
+	

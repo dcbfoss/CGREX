@@ -1,0 +1,14 @@
+                                          Zoom 
+
+Zoom In:
+
+This feature allows the user to zoom in to the plot upto a maximum of 100 levels. The unique feature of this tool is that no base that has been typed would be missed in the plot. To explain this point a good example would be a sequence with a continues stream of a single base,say,"AAAAAAAAAAAAAAAAAAAAAAAAAA". Due to the limitations of the plotting function and the screen resolution ,the points at the end of the sequence cannot be plotted as individual points
+and would appear to the user as a continuos line. The zoom in feature allows the user to select any region where more clarity is desired
+and expand the image such that those point would be clearly visible and distinguishable. This is one of the tools that set our software
+apart from the conventional ones. 
+
+Zoom Out:
+
+User can zoom out after Zoom in the picture.
+
+

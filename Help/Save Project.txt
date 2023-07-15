@@ -1,0 +1,5 @@
+                                           Save Project
+
+
+         The entire SAT project can be saved by this menu item.  A SAT file contains the sequence, plot and all the settings made by user.  A saved project will have extension .cgr.
+

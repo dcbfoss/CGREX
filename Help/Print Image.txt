@@ -1,0 +1,5 @@
+				Print
+
+This option enables the user to print the CGR image. To print the image the user can choose the Print Plot option from the File menu or the user can click the Print button provided on the toolbar.
+
+

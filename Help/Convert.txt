@@ -1,0 +1,4 @@
+                                             Convert
+
+          The user can convert the loaded sequence to another type of sequence and plot CGR. The two plots can be opened independently or the second plot can be plotted on top of the other(super impose) and then studied.
+

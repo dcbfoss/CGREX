@@ -1,0 +1,7 @@
+
+                                            Predefined
+
+
+             If, the sequence is DNA or RNA, then, this option allows the user to select the predefined settings to plot the CGR. The number of corners are fixed (in this case 4) but the  user has the flexibilty of changing the relative positions of the bases in the plot. In the case
+of AMINO ACIDS ,the clustering of the amino acids to the user defined corners would be predefined  by the Hydrophobicity property of the amino acids.The user has no control with respect to changing 
+the grouping of the acids however the user can change the relative numbering of the acid group.

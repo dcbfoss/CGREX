@@ -1,0 +1,5 @@
+
+                                       Point Assignment
+
+
+               The symbols has to be assigned to each corners of selected polygon. This can be done in three ways. The user can use predefined assignment which uses the k means clustering algorithm based on the Hydrophobicity property of the acids or use K-means clustering and select the property,namely Hydrophobicity,Molecular Weight or the Water to Oil ratio on which the grouping has to be done or can assign as the user may deem necessary. 

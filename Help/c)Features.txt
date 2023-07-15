@@ -1,0 +1,27 @@
+                                         Features of CGREx
+
+
+*  The user can work with DNA, RNA and Amino Acid Sequence or any other  sequence of interest.
+
+*  User can assign points to various regions of the plot or use clustering algorithm   to  make the grouping
+
+*  The sequence under study will be shown at the bottom  of the plot and user can scroll through it.
+
+*  The sequence can be plotted on a triangle, square or  on a polygon with corners up  to 20.
+
+*  The user will be able to divide the plot into sub  regions and count the number of   n-mers.
+
+*  The user can select a part of the sequence or a   portion of plot and assign a color to it. The corresponding points in the CGR as well as the       sequence will be displayed   in the same color.
+
+*  User can make movies of how CGR is being plotted.
+
+*  Zoom in and Zoom out feature is available
+
+*  User can save picture in different picture formats.
+
+*  The entire project can be saved. A project includes  sequence under study, the CGR plot and the  manipulation made by user.
+
+*  The user can convert the DNA sequence to RNA and Amino Acid and observe the   difference in plot.
+
+*  The user can plot two sequences simultaneously and  study the plots.
+

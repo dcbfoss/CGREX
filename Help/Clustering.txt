@@ -1,0 +1,4 @@
+                                           Clustering
+
+
+               User can use K-means clustering to group the symbols if it is protein sequence. The available properties will be listed for selection in a pop up window.

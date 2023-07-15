@@ -1,0 +1,4 @@
+                                             Export
+
+
+          By using this menu item the user can save the plot as a picture in  JPEG format.

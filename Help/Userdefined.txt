@@ -1,0 +1,6 @@
+
+                                           User Defined
+
+
+         This option also allows the user to select the settings to plot the CGR,for a protein sequnce  as per the users grouping.  The shape selected will be shown in the window and corners will be labeled. The user can change the selections by assigning symbols to each corner separated by comma.
+

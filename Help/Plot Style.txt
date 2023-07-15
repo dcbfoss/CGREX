@@ -1,0 +1,4 @@
+                                               Plot Style
+
+
+          A window will pop up to select the plot shape. For DNA or RNA sequences the plot shape is fixed to square. But, for amino acids(protein sequence), User can decide the shape of polygon to plot CGR. The shape can range up to a polygon of 20 corners. 

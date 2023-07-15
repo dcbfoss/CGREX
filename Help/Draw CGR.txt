@@ -1,0 +1,3 @@
+                                            Draw CGR
+
+           A window  will pop up when this is selected. User has to specify the type of sequence in this window. This has to be done after loading the sequence.

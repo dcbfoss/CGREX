@@ -1,0 +1,5 @@
+                                              Movie
+
+
+            The user can have a movie like display of CGR. A window will pop up .The User can select either Sliding window or Complete window. The user has to specify window size, starting point and end point. This allows user to experiment with different portions of loaded sequence. The Sliding window will show only the plot of current window. The complete option will retain the previous window plot also.
+

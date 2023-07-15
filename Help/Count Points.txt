@@ -1,0 +1,7 @@
+                                        Count Points
+
+
+          This will count points in each level. The level can be determined by selecting the split level (next menu item).
+	The sofware offers a unique feature wherin the user can draw a polygon of anyshape and then count the number of plotted points 
+within it.
+

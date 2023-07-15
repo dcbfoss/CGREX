@@ -1,0 +1,5 @@
+                                                Color
+
+    
+             The color of a selected portion  of sequence  can be set.Both  sequence and corresponding points in the plot will be plotted in selected color.
+	     The software also provides an additional functionality of setting different colors on the same sequence and plot it with the newly selected color.

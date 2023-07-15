@@ -1,0 +1,8 @@
+					Mesh Plot
+
+This option enables the user to calcualte point count in each quadrant and the plot them by interconnecting them. The average calculation depends on the Split Level selected.
+
+The user has the following options to choose from
+(i) 	Draw Mesh,
+(ii)	Count Poitns 
+(iii) 	Angles.

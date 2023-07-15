@@ -1,0 +1,6 @@
+                                           Multiplot
+
+
+
+           The user can load another sequence and study the CGR of  both the sequences simulatanously.
+	The user is given the option of showing the two plots either independently or the user can plot the new sequence on top of the old sequence(super impose) .
